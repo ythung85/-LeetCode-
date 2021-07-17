@@ -26,7 +26,7 @@
   
 ## LeetCode (Algo)
 
->Easy
+>Easy  
   -1  
   -7  
   -9  
