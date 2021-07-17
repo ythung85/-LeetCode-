@@ -1,6 +1,6 @@
-# SQL-LeetCode-
+# -LeetCode-
 
-LeetCode (SQL)
+## LeetCode (SQL)
 
 >Easy
 
@@ -23,4 +23,10 @@ LeetCode (SQL)
   -178      
   -184
   -626
+  
+## LeetCode (Algo)
+  -1
+  -3
+  -7
+  -9
   
