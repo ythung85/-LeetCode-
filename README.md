@@ -3,7 +3,6 @@
 ## LeetCode (SQL)
 
 >Easy
-  - 
   -175      
   -176      
   -181      
